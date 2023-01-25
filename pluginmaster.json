@@ -1,0 +1,23 @@
+[
+    {
+        "Author":  "Iaotle, StarryNight",
+        "Name":  "LootMaster",
+        "InternalName":  "LootMaster",
+        "AssemblyVersion":  "2.0.0.0",
+        "Description":  "Various commands to need, greed, or pass on all loot.",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/Iaotle/LootMaster",
+        "DalamudApiLevel":  8,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "Dungeon Loot Made Lazy.",
+        "AcceptsFeedback":  true,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  "1674635337",
+        "DownloadLinkInstall":  "https://github.com/ryon5541/plugins/raw/main/plugins/LootMaster/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/plugins/raw/main/plugins/LootMaster/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/plugins/raw/main/plugins/LootMaster/latest.zip"
+    }
+]
