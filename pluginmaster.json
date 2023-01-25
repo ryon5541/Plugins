@@ -19,5 +19,30 @@
         "DownloadLinkInstall":  "https://github.com/ryon5541/plugins/raw/main/plugins/LootMaster/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/plugins/raw/main/plugins/LootMaster/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/plugins/raw/main/plugins/LootMaster/latest.zip"
+    },
+    {
+        "Author":  "Aulus mal Asina",
+        "Name":  "Resonant",
+        "InternalName":  "Resonant",
+        "AssemblyVersion":  "0.0.0.7",
+        "Description":  "Displays accurate player hitbox and positional outlines.",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/aulus-asina/resonant",
+        "Tags":  [
+                     "combat"
+                 ],
+        "DalamudApiLevel":  8,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "LoadPriority":  0,
+        "IconUrl":  "https://raw.githubusercontent.com/aulus-asina/resonant/main/repo/resonant.png",
+        "Punchline":  "A power worthy of Lord Zenos",
+        "AcceptsFeedback":  true,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  0,
+        "DownloadLinkInstall":  "https://github.com/ryon5541/plugins/raw/main/plugins/Resonant/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/plugins/raw/main/plugins/Resonant/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/plugins/raw/main/plugins/Resonant/latest.zip"
     }
 ]
