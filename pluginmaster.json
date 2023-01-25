@@ -16,9 +16,9 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  "1674635337",
-        "DownloadLinkInstall":  "https://github.com/ryon5541/plugins/raw/main/plugins/LootMaster/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/plugins/raw/main/plugins/LootMaster/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/plugins/raw/main/plugins/LootMaster/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/LootMaster/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/LootMaster/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/LootMaster/latest.zip"
     },
     {
         "Author":  "Aulus mal Asina",
@@ -40,9 +40,9 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  0,
-        "DownloadLinkInstall":  "https://github.com/ryon5541/plugins/raw/main/plugins/Resonant/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/plugins/raw/main/plugins/Resonant/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/plugins/raw/main/plugins/Resonant/latest.zip"
+        "LastUpdate":  "1674636927",
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip"
     }
 ]
