@@ -3,7 +3,7 @@
         "Author":  "Asteria Nocturna",
         "Name":  "Divination.AetheryteLinkInChat",
         "InternalName":  "Divination.AetheryteLinkInChat",
-        "AssemblyVersion":  "0.1.0.109",
+        "AssemblyVersion":  "0.1.0.110",
         "Description":  "Add a link to teleport to the nearest aetheryte into map link in chat.",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -23,7 +23,7 @@
         "AcceptsFeedback":  false,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  0,
+        "LastUpdate":  "1675290741",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.AetheryteLinkInChat/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.AetheryteLinkInChat/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.AetheryteLinkInChat/latest.zip"
@@ -32,7 +32,7 @@
         "Author":  "Asteria Nocturna",
         "Name":  "Divination.FaloopIntegration",
         "InternalName":  "Divination.FaloopIntegration",
-        "AssemblyVersion":  "0.1.0.30",
+        "AssemblyVersion":  "0.1.0.31",
         "Description":  "Provide simple integration with Faloop. Mob notification in chat.",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -42,7 +42,7 @@
                              "social",
                              "utility"
                          ],
-        "DalamudApiLevel":  7,
+        "DalamudApiLevel":  8,
         "LoadRequiredState":  2,
         "LoadSync":  false,
         "LoadPriority":  0,
@@ -53,7 +53,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  0,
+        "LastUpdate":  "1675290741",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.FaloopIntegration/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.FaloopIntegration/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.FaloopIntegration/latest.zip"
@@ -82,5 +82,26 @@
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip"
+    },
+    {
+        "Author":  "ascclemens",
+        "Name":  "The Great Separator2",
+        "InternalName":  "TheGreatSeparator",
+        "AssemblyVersion":  "1.2.7.0",
+        "Description":  "Add separators to various numbers.\n\n- Damage/healing numbers (not DoTs or other players\u0027 numbers)\n- Party list HP\n- Ability costs on hotbars\n- Ability costs in tooltips",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://git.annaclemens.io/ascclemens/TheGreatSeparator",
+        "DalamudApiLevel":  8,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "Add separators to various numbers.",
+        "AcceptsFeedback":  true,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  "1675290741",
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/TheGreatSeparator/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/TheGreatSeparator/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/TheGreatSeparator/latest.zip"
     }
 ]
