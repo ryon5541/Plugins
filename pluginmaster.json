@@ -1,24 +1,62 @@
 [
     {
-        "Author":  "Iaotle, StarryNight",
-        "Name":  "LootMaster",
-        "InternalName":  "LootMaster",
-        "AssemblyVersion":  "2.0.0.0",
-        "Description":  "Various commands to need, greed, or pass on all loot.",
+        "Author":  "Asteria Nocturna",
+        "Name":  "Divination.AetheryteLinkInChat",
+        "InternalName":  "Divination.AetheryteLinkInChat",
+        "AssemblyVersion":  "0.1.0.109",
+        "Description":  "Add a link to teleport to the nearest aetheryte into map link in chat.",
         "ApplicableVersion":  "any",
-        "RepoUrl":  "https://github.com/Iaotle/LootMaster",
+        "Tags":  [
+                     "teleporter"
+                 ],
+        "CategoryTags":  [
+                             "utility"
+                         ],
         "DalamudApiLevel":  8,
         "LoadRequiredState":  0,
         "LoadSync":  false,
         "LoadPriority":  0,
-        "Punchline":  "Dungeon Loot Made Lazy.",
+        "ImageUrls":  [
+
+                      ],
+        "Punchline":  "Quick teleport for Mob Hunting",
+        "AcceptsFeedback":  false,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  0,
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.AetheryteLinkInChat/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.AetheryteLinkInChat/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.AetheryteLinkInChat/latest.zip"
+    },
+    {
+        "Author":  "Asteria Nocturna",
+        "Name":  "Divination.FaloopIntegration",
+        "InternalName":  "Divination.FaloopIntegration",
+        "AssemblyVersion":  "0.1.0.30",
+        "Description":  "Provide simple integration with Faloop. Mob notification in chat.",
+        "ApplicableVersion":  "any",
+        "Tags":  [
+                     "mobhunt"
+                 ],
+        "CategoryTags":  [
+                             "social",
+                             "utility"
+                         ],
+        "DalamudApiLevel":  7,
+        "LoadRequiredState":  2,
+        "LoadSync":  false,
+        "LoadPriority":  0,
+        "ImageUrls":  [
+
+                      ],
+        "Punchline":  "Faloop notification in chat",
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1674635337",
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/LootMaster/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/LootMaster/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/LootMaster/latest.zip"
+        "LastUpdate":  0,
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.FaloopIntegration/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.FaloopIntegration/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.FaloopIntegration/latest.zip"
     },
     {
         "Author":  "Aulus mal Asina",
