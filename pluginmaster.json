@@ -62,7 +62,7 @@
         "Author":  "goat",
         "Name":  "Fancy Loading Screens2",
         "InternalName":  "FancyLoadingScreens2",
-        "AssemblyVersion":  "1.0.0.12",
+        "AssemblyVersion":  "1.0.0.13",
         "Description":  "This plugin shows the destination zone\u0027s concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can\u0027t expand/fix it. Sorry!\nSupport API8 instead of API7 fork:goat",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  8,
@@ -74,7 +74,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1677169973",
+        "LastUpdate":  "1677171529",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FancyLoadingScreens2/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FancyLoadingScreens2/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FancyLoadingScreens2/latest.zip"
