@@ -81,9 +81,9 @@
     },
     {
         "Author":  "Caraxi",
-        "Name":  "PartyListLayout",
+        "Name":  "PartyListLayout2",
         "InternalName":  "PartyListLayout",
-        "AssemblyVersion":  "0.3.6.0",
+        "AssemblyVersion":  "0.3.6.1",
         "Description":  "Customize the layout of the party list.",
         "ApplicableVersion":  "any",
         "RepoUrl":  "https://github.com/Caraxi/PartyListLayout",
@@ -95,7 +95,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  0,
+        "LastUpdate":  "1677655080",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/PartyListLayout/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/PartyListLayout/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/PartyListLayout/latest.zip"

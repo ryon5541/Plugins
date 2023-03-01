@@ -1,8 +1,8 @@
 {
   "Author": "Caraxi",
-  "Name": "PartyListLayout",
+  "Name": "PartyListLayout2",
   "InternalName": "PartyListLayout",
-  "AssemblyVersion": "0.3.6.0",
+  "AssemblyVersion": "0.3.6.1",
   "Description": "Customize the layout of the party list.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Caraxi/PartyListLayout",
