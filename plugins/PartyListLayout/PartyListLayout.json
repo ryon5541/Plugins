@@ -1,0 +1,15 @@
+{
+  "Author": "Caraxi",
+  "Name": "PartyListLayout",
+  "InternalName": "PartyListLayout",
+  "AssemblyVersion": "0.3.6.0",
+  "Description": "Customize the layout of the party list.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Caraxi/PartyListLayout",
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "Customize the layout of the party list.",
+  "AcceptsFeedback": true
+}
