@@ -19,5 +19,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Make hotbar skills that you cant use transparent when sync'd",
+  "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/master/plugins/KitchenSync2/icon.png",
   "AcceptsFeedback": true
 }
