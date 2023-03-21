@@ -23,7 +23,7 @@
         "AcceptsFeedback":  false,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1676294018",
+        "LastUpdate":  0,
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.AetheryteLinkInChat/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.AetheryteLinkInChat/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.AetheryteLinkInChat/latest.zip"
@@ -53,7 +53,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1676294018",
+        "LastUpdate":  0,
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.FaloopIntegration/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.FaloopIntegration/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.FaloopIntegration/latest.zip"
@@ -74,10 +74,40 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1677252556",
+        "LastUpdate":  0,
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FancyLoadingScreens2/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FancyLoadingScreens2/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FancyLoadingScreens2/latest.zip"
+    },
+    {
+        "Author":  "MidoriKami",
+        "Name":  "Kitchen Sync2",
+        "InternalName":  "KitchenSync2",
+        "AssemblyVersion":  "1.1.1.4",
+        "Description":  "This plugin allows you to configure the transparency of hotbar skills that you can\u0027t use due to being sync\u0027d or under-leveled.\n\n/ksync help ??Display all available commands",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/MidoriKami/KitchenSync",
+        "Tags":  [
+                     "utility"
+                 ],
+        "CategoryTags":  [
+                             "Utility",
+                             "UI"
+                         ],
+        "DalamudApiLevel":  8,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "Make hotbar skills that you cant use transparent when sync\u0027d",
+        "IconUrl":  "https://raw.githubusercontent.com/ryon5541/Plugins/master/plugins/KitchenSync2/icon.png",
+        "AcceptsFeedback":  true,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  0,
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip"
     },
     {
         "Author":  "Aulus mal Asina",
@@ -99,7 +129,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1674636927",
+        "LastUpdate":  0,
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip"
@@ -121,7 +151,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1677915805",
+        "LastUpdate":  0,
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Tourist2/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Tourist2/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Tourist2/latest.zip"
