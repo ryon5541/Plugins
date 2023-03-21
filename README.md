@@ -7,4 +7,4 @@ fork:
 [resonant](https://github.com/aulus-asina/resonant)  
 [Fancy Loading Screens](https://github.com/goaaats/Dalamud.LoadingImage)  
 [Tourist](https://git.anna.lgbt/ascclemens/Tourist.git)  
-[KitchenSync2](https://github.com/MidoriKami/)
+[KitchenSync](https://github.com/MidoriKami/)
