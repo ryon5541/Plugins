@@ -1,7 +1,7 @@
 {
   "Author": "MidoriKami",
-  "Name": "Kitchen Sync",
-  "InternalName": "KitchenSync",
+  "Name": "Kitchen Sync2",
+  "InternalName": "KitchenSync2",
   "AssemblyVersion": "1.1.1.3",
   "Description": "This plugin allows you to configure the transparency of hotbar skills that you can't use due to being sync'd or under-leveled.\n\n/ksync help → Display all available commands",
   "ApplicableVersion": "any",

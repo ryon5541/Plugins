@@ -81,8 +81,8 @@
     },
     {
         "Author":  "MidoriKami",
-        "Name":  "Kitchen Sync",
-        "InternalName":  "KitchenSync",
+        "Name":  "Kitchen Sync2",
+        "InternalName":  "KitchenSync2",
         "AssemblyVersion":  "1.1.1.3",
         "Description":  "This plugin allows you to configure the transparency of hotbar skills that you can\u0027t use due to being sync\u0027d or under-leveled.\n\n/ksync help ??Display all available commands",
         "ApplicableVersion":  "any",
@@ -104,9 +104,9 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  0,
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/KitchenSync/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/KitchenSync/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/KitchenSync/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/KitchenSync2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/KitchenSync2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/KitchenSync2/latest.zip"
     },
     {
         "Author":  "Caraxi",
