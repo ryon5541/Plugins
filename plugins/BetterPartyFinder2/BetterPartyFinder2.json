@@ -11,6 +11,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/master/plugins/BetterPartyFinder2/icon.png",
   "Punchline": "Use advanced Party Finder filter presets.",
   "Changelog": "Support API8 instead of API7",
   "AcceptsFeedback": true
