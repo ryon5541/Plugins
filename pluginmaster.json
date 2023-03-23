@@ -12,15 +12,16 @@
         "LoadSync":  false,
         "CanUnloadAsync":  false,
         "LoadPriority":  0,
+        "IconUrl":  "https://raw.githubusercontent.com/ryon5541/Plugins/master/plugins/BetterPartyFinder2/icon.png",
         "Punchline":  "Use advanced Party Finder filter presets.",
         "Changelog":  "Support API8 instead of API7",
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  0,
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/BetterPartyFinder2/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/BetterPartyFinder2/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/BetterPartyFinder2/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/BetterPartyFinder2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/BetterPartyFinder2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/BetterPartyFinder2/latest.zip"
     },
     {
         "Author":  "Asteria Nocturna",
@@ -47,9 +48,9 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  0,
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Divination.AetheryteLinkInChat/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Divination.AetheryteLinkInChat/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Divination.AetheryteLinkInChat/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.AetheryteLinkInChat/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.AetheryteLinkInChat/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.AetheryteLinkInChat/latest.zip"
     },
     {
         "Author":  "Asteria Nocturna",
@@ -77,9 +78,9 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  0,
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Divination.FaloopIntegration/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Divination.FaloopIntegration/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Divination.FaloopIntegration/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.FaloopIntegration/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.FaloopIntegration/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.FaloopIntegration/latest.zip"
     },
     {
         "Author":  "goat",
@@ -98,9 +99,9 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  0,
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/FancyLoadingScreens2/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/FancyLoadingScreens2/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/FancyLoadingScreens2/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FancyLoadingScreens2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FancyLoadingScreens2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FancyLoadingScreens2/latest.zip"
     },
     {
         "Author":  "MidoriKami",
@@ -128,9 +129,9 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  0,
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/KitchenSync2/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/KitchenSync2/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/KitchenSync2/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip"
     },
     {
         "Author":  "Aulus mal Asina",
@@ -153,9 +154,9 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  0,
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Resonant/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Resonant/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Resonant/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip"
     },
     {
         "Author":  "ascclemens",
@@ -175,8 +176,8 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  0,
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Tourist2/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Tourist2/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Tourist2/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Tourist2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Tourist2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Tourist2/latest.zip"
     }
 ]
