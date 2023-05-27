@@ -1,7 +1,7 @@
 {
   "Author": "ascclemens",
-  "Name": "The Great Separator",
-  "InternalName": "TheGreatSeparator",
+  "Name": "The Great Separator2",
+  "InternalName": "TheGreatSeparator2",
   "AssemblyVersion": "1.2.8.0",
   "Description": "Add separators to various numbers.\n\n- Damage/healing numbers (not DoTs or other players' numbers)\n- Party list HP\n- Ability costs on hotbars\n- Ability costs in tooltips",
   "ApplicableVersion": "any",
@@ -10,6 +10,7 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/test/plugins/TheGreatSeparator2/icon.png",
   "Punchline": "Add separators to various numbers.",
   "AcceptsFeedback": true
 }

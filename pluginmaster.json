@@ -80,8 +80,8 @@
     },
     {
         "Author":  "ascclemens",
-        "Name":  "The Great Separator",
-        "InternalName":  "TheGreatSeparator",
+        "Name":  "The Great Separator2",
+        "InternalName":  "TheGreatSeparator2",
         "AssemblyVersion":  "1.2.8.0",
         "Description":  "Add separators to various numbers.\n\n- Damage/healing numbers (not DoTs or other players\u0027 numbers)\n- Party list HP\n- Ability costs on hotbars\n- Ability costs in tooltips",
         "ApplicableVersion":  "any",
@@ -90,14 +90,15 @@
         "LoadRequiredState":  0,
         "LoadSync":  false,
         "LoadPriority":  0,
+        "IconUrl":  "https://raw.githubusercontent.com/ryon5541/Plugins/test/plugins/TheGreatSeparator2/icon.png",
         "Punchline":  "Add separators to various numbers.",
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  "1675291614",
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/TheGreatSeparator/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/TheGreatSeparator/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/TheGreatSeparator/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/TheGreatSeparator2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/TheGreatSeparator2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/TheGreatSeparator2/latest.zip"
     },
     {
         "Author":  "ascclemens",
