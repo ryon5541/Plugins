@@ -10,7 +10,7 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/test/plugins/TheGreatSeparator2/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/master/plugins/TheGreatSeparator2/icon.png",
   "Punchline": "Add separators to various numbers.",
   "AcceptsFeedback": true
 }
