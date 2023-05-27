@@ -19,9 +19,9 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  "1679554925",
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/BetterPartyFinder2/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/BetterPartyFinder2/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/BetterPartyFinder2/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/BetterPartyFinder2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/BetterPartyFinder2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/BetterPartyFinder2/latest.zip"
     },
     {
         "Author":  "MidoriKami",
@@ -49,9 +49,9 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  "1679379214",
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/KitchenSync2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/KitchenSync2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/KitchenSync2/latest.zip"
     },
     {
         "Author":  "Aulus mal Asina",
@@ -74,9 +74,30 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  "1674636927",
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Resonant/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Resonant/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Resonant/latest.zip"
+    },
+    {
+        "Author":  "ascclemens",
+        "Name":  "The Great Separator",
+        "InternalName":  "TheGreatSeparator",
+        "AssemblyVersion":  "1.2.8.0",
+        "Description":  "Add separators to various numbers.\n\n- Damage/healing numbers (not DoTs or other players\u0027 numbers)\n- Party list HP\n- Ability costs on hotbars\n- Ability costs in tooltips",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://git.annaclemens.io/ascclemens/TheGreatSeparator",
+        "DalamudApiLevel":  8,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "Add separators to various numbers.",
+        "AcceptsFeedback":  true,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  "1675291614",
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/TheGreatSeparator/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/TheGreatSeparator/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/TheGreatSeparator/latest.zip"
     },
     {
         "Author":  "ascclemens",
@@ -96,8 +117,8 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  "1677915805",
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Tourist2/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Tourist2/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Tourist2/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Tourist2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Tourist2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Tourist2/latest.zip"
     }
 ]
