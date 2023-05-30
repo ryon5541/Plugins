@@ -6,4 +6,5 @@ fork:
 [Tourist](https://git.anna.lgbt/ascclemens/Tourist.git)  
 [Kitchen Sync](https://github.com/MidoriKami/)  
 [Better Party Finder](https://git.anna.lgbt/ascclemens/BetterPartyFinder)  
-[The Great Separator](https://git.anna.lgbt/ascclemens/TheGreatSeparator)
+[The Great Separator](https://git.anna.lgbt/ascclemens/TheGreatSeparator)  
+[Fish Notify](https://github.com/carvelli)
