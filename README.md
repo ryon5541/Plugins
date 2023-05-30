@@ -1,6 +1,8 @@
 # plugins
 Support API8 instead of API7
-
+```
+https://raw.githubusercontent.com/ryon5541/Plugins/master/pluginmaster.json
+```
 fork:  
 [resonant](https://github.com/aulus-asina/resonant)  
 [Tourist](https://git.anna.lgbt/ascclemens/Tourist.git)  
