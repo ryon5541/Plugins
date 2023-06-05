@@ -79,6 +79,28 @@
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip"
     },
     {
+        "Author":  "ascclemens",
+        "Name":  "Namingway2",
+        "InternalName":  "Namingway2",
+        "AssemblyVersion":  "1.1.10.0",
+        "Description":  "Rename abilities and status effects.",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://git.annaclemens.io/ascclemens/Namingway",
+        "DalamudApiLevel":  8,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "LoadPriority":  0,
+        "IconUrl":  "https://raw.githubusercontent.com/ryon5541/Plugins/master/plugins/Namingway2/icon.png",
+        "Punchline":  "Rename abilities and status effects.",
+        "AcceptsFeedback":  true,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  "1685999633",
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Namingway2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Namingway2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Namingway2/latest.zip"
+    },
+    {
         "Author":  "Aulus mal Asina",
         "Name":  "Resonant",
         "InternalName":  "Resonant",
@@ -143,7 +165,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1677915805",
+        "LastUpdate":  "1685442036",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Tourist2/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Tourist2/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Tourist2/latest.zip"

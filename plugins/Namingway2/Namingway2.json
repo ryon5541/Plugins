@@ -1,0 +1,16 @@
+{
+  "Author": "ascclemens",
+  "Name": "Namingway2",
+  "InternalName": "Namingway2",
+  "AssemblyVersion": "1.1.10.0",
+  "Description": "Rename abilities and status effects.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.annaclemens.io/ascclemens/Namingway",
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/master/plugins/Namingway2/icon.png",
+  "Punchline": "Rename abilities and status effects.",
+  "AcceptsFeedback": true
+}

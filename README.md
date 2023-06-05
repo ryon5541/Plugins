@@ -9,4 +9,5 @@ fork:
 [Kitchen Sync](https://github.com/MidoriKami/)  
 [Better Party Finder](https://git.anna.lgbt/ascclemens/BetterPartyFinder)  
 [The Great Separator](https://git.anna.lgbt/ascclemens/TheGreatSeparator)  
-[Fish Notify](https://github.com/carvelli)
+[Fish Notify](https://github.com/carvelli)  
+[Namingway](https://git.anna.lgbt/ascclemens/Namingway)
