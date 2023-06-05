@@ -19,9 +19,9 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  "1679554925",
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/BetterPartyFinder2/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/BetterPartyFinder2/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/BetterPartyFinder2/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/BetterPartyFinder2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/BetterPartyFinder2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/BetterPartyFinder2/latest.zip"
     },
     {
         "Author":  "Liza Carvelli,ryon5541",
@@ -44,9 +44,9 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  "1685425931",
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FishNotify/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FishNotify/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FishNotify/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/FishNotify/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/FishNotify/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/FishNotify/latest.zip"
     },
     {
         "Author":  "MidoriKami",
@@ -74,9 +74,31 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  "1679379214",
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/KitchenSync2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/KitchenSync2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/KitchenSync2/latest.zip"
+    },
+    {
+        "Author":  "ascclemens",
+        "Name":  "Namingway2",
+        "InternalName":  "Namingway2",
+        "AssemblyVersion":  "1.1.10.0",
+        "Description":  "Rename abilities and status effects.",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://git.annaclemens.io/ascclemens/Namingway",
+        "DalamudApiLevel":  8,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "LoadPriority":  0,
+        "IconUrl":  "https://raw.githubusercontent.com/ryon5541/Plugins/master/plugins/Namingway2/icon.png",
+        "Punchline":  "Rename abilities and status effects.",
+        "AcceptsFeedback":  true,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  0,
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Namingway2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Namingway2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Namingway2/latest.zip"
     },
     {
         "Author":  "Aulus mal Asina",
@@ -99,9 +121,9 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  "1674636927",
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Resonant/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Resonant/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Resonant/latest.zip"
     },
     {
         "Author":  "ascclemens",
@@ -121,9 +143,9 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  "1685212761",
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/TheGreatSeparator2/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/TheGreatSeparator2/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/TheGreatSeparator2/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/TheGreatSeparator2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/TheGreatSeparator2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/TheGreatSeparator2/latest.zip"
     },
     {
         "Author":  "ascclemens",
@@ -143,9 +165,9 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1677915805",
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Tourist2/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Tourist2/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Tourist2/latest.zip"
+        "LastUpdate":  "1685442036",
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Tourist2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Tourist2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/test/plugins/Tourist2/latest.zip"
     }
 ]
