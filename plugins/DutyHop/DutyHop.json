@@ -1,0 +1,19 @@
+{
+  "Author": "Marxvee, ryon5541",
+  "Name": "DutyHop",
+  "InternalName": "DutyHop",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Allows you to instantly leave duties with a single command.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/ryon5541/DutyHop",
+  "Tags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Leave duties like there's no tomorrow.",
+  "AcceptsFeedback": true
+}
