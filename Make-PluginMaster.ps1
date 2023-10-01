@@ -4,7 +4,7 @@ $ErrorActionPreference = 'SilentlyContinue'
 
 $output = New-Object Collections.Generic.List[object]
 
-$dlTemplate = "https://github.com/ryon5541/Plugins/raw/master/plugins/{0}/latest.zip"
+$dlTemplate = "https://github.com/ryon5541/Plugins/raw/API9/plugins/{0}/latest.zip"
 
 $apiLevel = 8
 
