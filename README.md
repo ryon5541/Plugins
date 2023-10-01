@@ -1,7 +1,7 @@
 # plugins
 Support API9 instead of API8
 ```
-https://raw.githubusercontent.com/ryon5541/Plugins/API9/pluginmaster.json
+https://raw.githubusercontent.com/ryon5541/Plugins/master/pluginmaster.json
 ```
 fork:  
 [resonant](https://github.com/aulus-asina/resonant)  
