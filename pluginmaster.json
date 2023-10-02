@@ -1,6 +1,32 @@
 [
     {
-        "Author":  "Aulus mal Asina",
+        "Author":  "Liza Carvelli,ryon5541",
+        "Name":  "Fish Notify",
+        "InternalName":  "FishNotify",
+        "AssemblyVersion":  "6.1.0.0",
+        "Description":  "Plays a sound when a fish is caught, depending on tug-strength",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/ryon5541/Fish-Notify",
+        "Tags":  [
+                     "fishing"
+                 ],
+        "DalamudApiLevel":  9,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "Plays a sound when a fish is caught",
+        "Changelog":  "- API9 Support",
+        "AcceptsFeedback":  true,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  "1696166376",
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/FishNotify/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/FishNotify/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/FishNotify/latest.zip"
+    },
+    {
+        "Author":  "Aulus mal Asina,ryon5541",
         "Name":  "Resonant",
         "InternalName":  "Resonant",
         "AssemblyVersion":  "0.0.0.7",
@@ -17,10 +43,11 @@
         "LoadPriority":  0,
         "IconUrl":  "https://raw.githubusercontent.com/aulus-asina/resonant/main/repo/resonant.png",
         "Punchline":  "A power worthy of Lord Zenos",
+        "Changelog":  "- API9 Support",
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1674636927",
+        "LastUpdate":  "1696166376",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/Resonant/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/Resonant/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/Resonant/latest.zip"
