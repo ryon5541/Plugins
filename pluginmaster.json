@@ -20,7 +20,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1696166376",
+        "LastUpdate":  "1696269663",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/FishNotify/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/FishNotify/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/FishNotify/latest.zip"
@@ -39,7 +39,6 @@
         "DalamudApiLevel":  9,
         "LoadRequiredState":  0,
         "LoadSync":  false,
-        "CanUnloadAsync":  false,
         "LoadPriority":  0,
         "IconUrl":  "https://raw.githubusercontent.com/aulus-asina/resonant/main/repo/resonant.png",
         "Punchline":  "A power worthy of Lord Zenos",
@@ -47,7 +46,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1696166376",
+        "LastUpdate":  "1696269663",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/Resonant/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/Resonant/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/Resonant/latest.zip"
