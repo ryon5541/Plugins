@@ -21,9 +21,9 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  "1696269663",
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/FishNotify/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/FishNotify/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/FishNotify/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FishNotify/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FishNotify/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FishNotify/latest.zip"
     },
     {
         "Author":  "Aulus mal Asina,ryon5541",
@@ -47,9 +47,9 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1696429174",
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/Resonant/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/Resonant/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/Resonant/latest.zip"
+        "LastUpdate":  "1696446827",
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip"
     }
 ]
