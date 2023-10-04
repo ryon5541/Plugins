@@ -2,18 +2,19 @@
   "Author": "Liza Carvelli,ryon5541",
   "Name": "Fish Notify",
   "InternalName": "FishNotify",
-  "AssemblyVersion": "6.0.0.0",
+  "AssemblyVersion": "6.1.0.0",
   "Description": "Plays a sound when a fish is caught, depending on tug-strength",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/ryon5541/Fish-Notify",
   "Tags": [
     "fishing"
   ],
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Plays a sound when a fish is caught",
+  "Changelog": "- API9 Support",
   "AcceptsFeedback": true
 }
