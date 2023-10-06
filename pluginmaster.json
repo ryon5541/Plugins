@@ -1,32 +1,5 @@
 [
     {
-        "Author":  "Bluefissure",
-        "Name":  "Double Weaver",
-        "InternalName":  "DoubleWeaver",
-        "AssemblyVersion":  "1.0.6.1",
-        "Description":  "Double weaving in high latency network.",
-        "ApplicableVersion":  "any",
-        "RepoUrl":  "https://github.com/Bluefissure/DoubleWeaver",
-        "Tags":  [
-                     "bluefissure",
-                     "doublewaver"
-                 ],
-        "DalamudApiLevel":  9,
-        "LoadRequiredState":  0,
-        "LoadSync":  false,
-        "CanUnloadAsync":  false,
-        "LoadPriority":  0,
-        "IconUrl":  "https://github.com/Bluefissure/DoubleWeaver/blob/master/images/icon.png",
-        "Punchline":  "Double weaving with high ping",
-        "AcceptsFeedback":  true,
-        "IsHide":  "False",
-        "IsTestingExclusive":  "False",
-        "LastUpdate":  0,
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DoubleWeaver/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DoubleWeaver/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DoubleWeaver/latest.zip"
-    },
-    {
         "Author":  "Liza Carvelli,ryon5541",
         "Name":  "Fish Notify",
         "InternalName":  "FishNotify",
@@ -51,6 +24,32 @@
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FishNotify/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FishNotify/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FishNotify/latest.zip"
+    },
+    {
+        "Author":  "Cair",
+        "Name":  "Redirect",
+        "InternalName":  "Redirect",
+        "AssemblyVersion":  "1.2.2.0",
+        "Description":  "Easily change the targeting priority for spells and abilities. Queue macros, sprint, and potions! Type /redirect to configure.",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/cairthenn/Redirect",
+        "CategoryTags":  [
+                             "jobs",
+                             "utility"
+                         ],
+        "DalamudApiLevel":  9,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "Change where your actions are going, queue macros, queue sprint, and queue potions!",
+        "AcceptsFeedback":  true,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  0,
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Redirect/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Redirect/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Redirect/latest.zip"
     },
     {
         "Author":  "Aulus mal Asina,ryon5541",
