@@ -1,5 +1,32 @@
 [
     {
+        "Author":  "Bluefissure",
+        "Name":  "Double Weaver",
+        "InternalName":  "DoubleWeaver",
+        "AssemblyVersion":  "1.0.6.1",
+        "Description":  "Double weaving in high latency network.",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/Bluefissure/DoubleWeaver",
+        "Tags":  [
+                     "bluefissure",
+                     "doublewaver"
+                 ],
+        "DalamudApiLevel":  9,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "IconUrl":  "https://github.com/Bluefissure/DoubleWeaver/blob/master/images/icon.png",
+        "Punchline":  "Double weaving with high ping",
+        "AcceptsFeedback":  true,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  "1696624833",
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DoubleWeaver/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DoubleWeaver/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DoubleWeaver/latest.zip"
+    },
+    {
         "Author":  "Liza Carvelli,ryon5541",
         "Name":  "Fish Notify",
         "InternalName":  "FishNotify",
