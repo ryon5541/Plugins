@@ -7,4 +7,5 @@ fork:
 [resonant](https://github.com/aulus-asina/resonant)  
 [Fish Notify](https://github.com/carvelli)  
 [The Great Separator](https://git.anna.lgbt/ascclemens/TheGreatSeparator)  
-[Redirect](https://github.com/cairthenn/Redirect)  
+~~[Redirect](https://github.com/cairthenn/Redirect)~~  
+[DoubleWeaver](https://github.com/ryonive/DoubleWeaver)  
