@@ -51,5 +51,27 @@
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip"
+    },
+    {
+        "Author":  "ascclemens",
+        "Name":  "The Great Separator2",
+        "InternalName":  "TheGreatSeparator2",
+        "AssemblyVersion":  "1.3.0.0",
+        "Description":  "Add separators to various numbers.\n\n- Damage/healing numbers (not DoTs or other players\u0027 numbers)\n- Party list HP\n- Ability costs on hotbars\n- Ability costs in tooltips",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://git.annaclemens.io/ascclemens/TheGreatSeparator",
+        "DalamudApiLevel":  9,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "Add separators to various numbers.",
+        "AcceptsFeedback":  true,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  "1696166376",
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/TheGreatSeparator2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/TheGreatSeparator2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/TheGreatSeparator2/latest.zip"
     }
 ]
