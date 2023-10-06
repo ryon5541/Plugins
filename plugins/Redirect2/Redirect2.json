@@ -1,7 +1,7 @@
 {
   "Author": "Cair",
   "Name": "Redirect2",
-  "InternalName": "Redirect",
+  "InternalName": "Redirect2",
   "AssemblyVersion": "1.2.2.0",
   "Description": "Easily change the targeting priority for spells and abilities. Queue macros, sprint, and potions! Type /redirect to configure.",
   "ApplicableVersion": "any",
