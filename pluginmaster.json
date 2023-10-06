@@ -21,35 +21,9 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  "1696269663",
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/FishNotify/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/FishNotify/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/FishNotify/latest.zip"
-    },
-    {
-        "Author":  "Cair",
-        "Name":  "Redirect2",
-        "InternalName":  "Redirect2",
-        "AssemblyVersion":  "1.2.2.0",
-        "Description":  "Easily change the targeting priority for spells and abilities. Queue macros, sprint, and potions! Type /redirect to configure.",
-        "ApplicableVersion":  "any",
-        "RepoUrl":  "https://github.com/cairthenn/Redirect",
-        "CategoryTags":  [
-                             "jobs",
-                             "utility"
-                         ],
-        "DalamudApiLevel":  9,
-        "LoadRequiredState":  0,
-        "LoadSync":  false,
-        "CanUnloadAsync":  false,
-        "LoadPriority":  0,
-        "Punchline":  "Change where your actions are going, queue macros, queue sprint, and queue potions!",
-        "AcceptsFeedback":  true,
-        "IsHide":  "False",
-        "IsTestingExclusive":  "False",
-        "LastUpdate":  0,
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/Redirect2/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/Redirect2/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/Redirect2/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FishNotify/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FishNotify/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FishNotify/latest.zip"
     },
     {
         "Author":  "Aulus mal Asina,ryon5541",
@@ -74,9 +48,9 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  "1696446827",
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/Resonant/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/Resonant/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/Resonant/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip"
     },
     {
         "Author":  "ascclemens",
@@ -96,8 +70,8 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  "1696614743",
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/TheGreatSeparator2/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/TheGreatSeparator2/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/API9/plugins/TheGreatSeparator2/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/TheGreatSeparator2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/TheGreatSeparator2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/TheGreatSeparator2/latest.zip"
     }
 ]
