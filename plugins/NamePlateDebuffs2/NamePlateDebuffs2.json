@@ -2,7 +2,7 @@
   "Author": "aers, JHerig, squidmade, ryon5541",
   "Name": "Nameplate Debuffs2",
   "InternalName": "NamePlateDebuffs2",
-  "AssemblyVersion": "1.0.2.0",
+  "AssemblyVersion": "1.0.2.1",
   "Description": "Displays your debuffs on enemy nameplates.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/jherig/NamePlateDebuffs",
@@ -12,6 +12,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Displays debuffs you cast on nameplates of enemies",
-  "Changelog": "- API9 Support",
+  "Changelog": "- WoW Amazing",
   "AcceptsFeedback": true
 }
