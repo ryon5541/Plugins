@@ -1,0 +1,17 @@
+{
+  "Author": "aers, JHerig, squidmade, ryon5541",
+  "Name": "Nameplate Debuffs2",
+  "InternalName": "NamePlateDebuffs2",
+  "AssemblyVersion": "1.0.2.0",
+  "Description": "Displays your debuffs on enemy nameplates.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/jherig/NamePlateDebuffs",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Displays debuffs you cast on nameplates of enemies",
+  "Changelog": "- API9 Support",
+  "AcceptsFeedback": true
+}
