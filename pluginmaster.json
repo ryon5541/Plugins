@@ -21,7 +21,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1696624833",
+        "LastUpdate":  "1696625586",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DoubleWeaver/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DoubleWeaver/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DoubleWeaver/latest.zip"
@@ -51,6 +51,59 @@
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FishNotify/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FishNotify/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FishNotify/latest.zip"
+    },
+    {
+        "Author":  "MidoriKami, ryon5541",
+        "Name":  "Kitchen Sync2",
+        "InternalName":  "KitchenSync2",
+        "AssemblyVersion":  "1.1.2.1",
+        "Description":  "This plugin allows you to configure the transparency of hotbar skills that you can\u0027t use due to being sync\u0027d or under-leveled.\n\n/ksync help ??Display all available commands",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/MidoriKami/KitchenSync",
+        "Tags":  [
+                     "utility"
+                 ],
+        "CategoryTags":  [
+                             "Utility",
+                             "UI"
+                         ],
+        "DalamudApiLevel":  9,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "Make hotbar skills that you cant use transparent when sync\u0027d",
+        "Changelog":  "- API9 Support",
+        "AcceptsFeedback":  true,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  "1698140647",
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip"
+    },
+    {
+        "Author":  "aers, JHerig, squidmade, ryon5541",
+        "Name":  "Nameplate Debuffs2",
+        "InternalName":  "NamePlateDebuffs2",
+        "AssemblyVersion":  "1.0.2.0",
+        "Description":  "Displays your debuffs on enemy nameplates.",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/jherig/NamePlateDebuffs",
+        "DalamudApiLevel":  9,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "Displays debuffs you cast on nameplates of enemies",
+        "Changelog":  "- API9 Support",
+        "AcceptsFeedback":  true,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  "1698138050",
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/NamePlateDebuffs2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/NamePlateDebuffs2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/NamePlateDebuffs2/latest.zip"
     },
     {
         "Author":  "Aulus mal Asina,ryon5541",
