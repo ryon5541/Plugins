@@ -24,7 +24,7 @@
         "AcceptsFeedback":  false,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  0,
+        "LastUpdate":  "1700049126",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/AetheryteLinkInChat/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/AetheryteLinkInChat/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/AetheryteLinkInChat/latest.zip"
@@ -42,7 +42,7 @@
         "CategoryTags":  [
                              "social"
                          ],
-        "DalamudApiLevel":  8,
+        "DalamudApiLevel":  9,
         "LoadRequiredState":  2,
         "LoadSync":  false,
         "CanUnloadAsync":  false,
@@ -54,7 +54,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  0,
+        "LastUpdate":  "1700049126",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DiscordIntegration/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DiscordIntegration/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DiscordIntegration/latest.zip"
@@ -112,7 +112,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  0,
+        "LastUpdate":  "1700049126",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FaloopIntegration/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FaloopIntegration/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FaloopIntegration/latest.zip"
