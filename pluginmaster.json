@@ -1,5 +1,65 @@
 [
     {
+        "Author":  "Asteria Nocturna",
+        "Name":  "Divination.AetheryteLinkInChat",
+        "InternalName":  "AetheryteLinkInChat",
+        "AssemblyVersion":  "0.1.0.1682",
+        "Description":  "Add a link to teleport to the nearest aetheryte into map link in chat.",
+        "ApplicableVersion":  "any",
+        "Tags":  [
+                     "teleporter"
+                 ],
+        "CategoryTags":  [
+                             "utility"
+                         ],
+        "DalamudApiLevel":  9,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "ImageUrls":  [
+
+                      ],
+        "Punchline":  "Quick teleport for Mob Hunting",
+        "AcceptsFeedback":  false,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  0,
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/AetheryteLinkInChat/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/AetheryteLinkInChat/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/AetheryteLinkInChat/latest.zip"
+    },
+    {
+        "Author":  "Asteria Nocturna",
+        "Name":  "Divination.DiscordIntegration",
+        "InternalName":  "DiscordIntegration",
+        "AssemblyVersion":  "0.1.0.1682",
+        "Description":  "Dalamud Plugin to support Rich Presence for FFXIV.",
+        "ApplicableVersion":  "any",
+        "Tags":  [
+                     "Discord"
+                 ],
+        "CategoryTags":  [
+                             "social"
+                         ],
+        "DalamudApiLevel":  8,
+        "LoadRequiredState":  2,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "ImageUrls":  [
+
+                      ],
+        "Punchline":  "Fully-customizable Discord Rich Presence",
+        "AcceptsFeedback":  true,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  0,
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DiscordIntegration/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DiscordIntegration/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DiscordIntegration/latest.zip"
+    },
+    {
         "Author":  "Bluefissure",
         "Name":  "Double Weaver",
         "InternalName":  "DoubleWeaver",
@@ -25,6 +85,37 @@
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DoubleWeaver/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DoubleWeaver/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DoubleWeaver/latest.zip"
+    },
+    {
+        "Author":  "Asteria Nocturna",
+        "Name":  "Divination.FaloopIntegration",
+        "InternalName":  "FaloopIntegration",
+        "AssemblyVersion":  "0.1.0.1682",
+        "Description":  "Provide simple integration with Faloop. Mob notification in chat.",
+        "ApplicableVersion":  "any",
+        "Tags":  [
+                     "mobhunt"
+                 ],
+        "CategoryTags":  [
+                             "social",
+                             "utility"
+                         ],
+        "DalamudApiLevel":  9,
+        "LoadRequiredState":  2,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "ImageUrls":  [
+
+                      ],
+        "Punchline":  "Faloop notification in chat",
+        "AcceptsFeedback":  true,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  0,
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FaloopIntegration/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FaloopIntegration/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FaloopIntegration/latest.zip"
     },
     {
         "Author":  "Liza Carvelli,ryon5541",
@@ -100,7 +191,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1698138050",
+        "LastUpdate":  "1698141998",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/NamePlateDebuffs2/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/NamePlateDebuffs2/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/NamePlateDebuffs2/latest.zip"
