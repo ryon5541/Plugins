@@ -1,0 +1,17 @@
+{
+  "Author": "Liza Carvelli",
+  "Name": "Squadronista (JP Ver)",
+  "InternalName": "Squadronista",
+  "AssemblyVersion": "1.1",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.carvel.li/liza/Squadronista",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://git.carvel.li/liza/plugin-repo/raw/branch/master/dist/Squadronista.png",
+  "Punchline": "Simplified Squadron Calculator, heavily inspired by https://ffxivsquadron.com/",
+  "AcceptsFeedback": true
+}

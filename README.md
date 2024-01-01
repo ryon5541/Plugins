@@ -1,5 +1,5 @@
 # plugins
-Support API9 instead of API8
+Supports API9 instead of API8 and Japanese environment
 ```
 https://raw.githubusercontent.com/ryon5541/Plugins/master/pluginmaster.json
 ```
@@ -12,4 +12,6 @@ fork:
 [Nameplate Debuffs](https://github.com/jherig/NamePlateDebuffs)  
 [AetheryteLinkInChat](https://github.com/SlashNephy/Divination)  
 [FaloopIntegration](https://github.com/SlashNephy/Divination)  
-[DiscordIntegration](https://github.com/SlashNephy/Divination)
+[DiscordIntegration](https://github.com/SlashNephy/Divination)  
+[ARDiscard](https://git.carvel.li/liza/ARDiscard)  
+[Squadronista](https://git.carvel.li/liza/Squadronista)
