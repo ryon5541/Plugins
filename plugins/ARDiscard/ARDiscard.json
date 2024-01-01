@@ -1,0 +1,17 @@
+{
+  "Author": "Liza Carvelli",
+  "Name": "Discard Helper(JP Ver)",
+  "InternalName": "ARDiscard",
+  "AssemblyVersion": "4.2",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.carvel.li/liza/ARDiscard",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://git.carvel.li/liza/plugin-repo/raw/branch/master/dist/ARDiscard.png",
+  "Punchline": "Discard items automatically via a command or as a post-venture task for AutoRetainer",
+  "AcceptsFeedback": true
+}
