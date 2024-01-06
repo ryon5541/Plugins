@@ -1,0 +1,17 @@
+{
+  "Author": "Liza Carvelli",
+  "Name": "ARC",
+  "InternalName": "ARControl",
+  "AssemblyVersion": "2.11",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.carvel.li/liza/ARControl",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://plugins.carvel.li/icons/ARControl.png",
+  "Punchline": "Better AutoRetainer Venture Planner",
+  "AcceptsFeedback": true
+}

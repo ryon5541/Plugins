@@ -1,0 +1,16 @@
+{
+  "Author": "Liza Carvelli",
+  "Name": "RetainerShutUp",
+  "InternalName": "RetainerShutUp",
+  "AssemblyVersion": "1.0",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.carvel.li/liza/Influx",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "",
+  "AcceptsFeedback": true
+}
