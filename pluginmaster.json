@@ -47,7 +47,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1704512930",
+        "LastUpdate":  "1704513495",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/ARControl/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/ARControl/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/ARControl/latest.zip"
@@ -74,6 +74,29 @@
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/ARDiscard/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/ARDiscard/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/ARDiscard/latest.zip"
+    },
+    {
+        "Author":  "Liza Carvelli",
+        "Name":  "Deliveroo",
+        "InternalName":  "Deliveroo",
+        "AssemblyVersion":  "2.23",
+        "Description":  "",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://git.carvel.li/liza/Deliveroo",
+        "DalamudApiLevel":  9,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "IconUrl":  "https://git.carvel.li/liza/plugin-repo/raw/branch/master/dist/Deliveroo.png",
+        "Punchline":  "Better Grand Company Deliveries",
+        "AcceptsFeedback":  true,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  0,
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Deliveroo/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Deliveroo/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Deliveroo/latest.zip"
     },
     {
         "Author":  "Asteria Nocturna",
@@ -206,7 +229,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1704512930",
+        "LastUpdate":  "1704513495",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Influx/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Influx/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Influx/latest.zip"
@@ -282,7 +305,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1704512930",
+        "LastUpdate":  "1704513495",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/NewGamePlusAnywhere/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/NewGamePlusAnywhere/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/NewGamePlusAnywhere/latest.zip"
@@ -331,7 +354,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1704512930",
+        "LastUpdate":  "1704513495",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/RetainerShutUp/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/RetainerShutUp/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/RetainerShutUp/latest.zip"
@@ -358,7 +381,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1704512930",
+        "LastUpdate":  "1704513495",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/RetainerTrack/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/RetainerTrack/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/RetainerTrack/latest.zip"
@@ -426,7 +449,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1704512930",
+        "LastUpdate":  "1704513495",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Workshoppa/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Workshoppa/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Workshoppa/latest.zip"
