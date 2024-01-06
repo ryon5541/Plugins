@@ -1,0 +1,17 @@
+{
+  "Author": "Liza Carvelli",
+  "Name": "NewGamePlusAnywhere",
+  "InternalName": "NewGamePlusAnywhere",
+  "AssemblyVersion": "2.0",
+  "Description": "No longer requires you to stand in a \"safe\" spot to toggle New Game+",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.carvel.li/liza/NewGamePlusAnywhere",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://git.carvel.li/liza/plugin-repo/raw/branch/master/dist/NewGamePlusAnywhere.png",
+  "Punchline": "No longer requires you to stand in a \"safe\" spot to toggle New Game+",
+  "AcceptsFeedback": true
+}

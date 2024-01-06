@@ -1,0 +1,17 @@
+{
+  "Author": "Liza Carvelli",
+  "Name": "Workshoppa",
+  "InternalName": "Workshoppa",
+  "AssemblyVersion": "3.8",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.carvel.li/liza/Workshoppa",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://git.carvel.li/liza/plugin-repo/raw/branch/master/dist/Workshoppa.png",
+  "Punchline": "Better Company Workshop Turn-In",
+  "AcceptsFeedback": true
+}
