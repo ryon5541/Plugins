@@ -24,7 +24,7 @@
         "AcceptsFeedback":  false,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1700049126",
+        "LastUpdate":  "1704517486",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/AetheryteLinkInChat/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/AetheryteLinkInChat/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/AetheryteLinkInChat/latest.zip"
@@ -47,7 +47,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1704513495",
+        "LastUpdate":  "1704517486",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/ARControl/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/ARControl/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/ARControl/latest.zip"
@@ -70,10 +70,38 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1704163168",
+        "LastUpdate":  "1704517486",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/ARDiscard/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/ARDiscard/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/ARDiscard/latest.zip"
+    },
+    {
+        "Author":  "WildWolf, ryon5541",
+        "Name":  "DeepDungeonDex(Disable UnknownContent)",
+        "InternalName":  "DeepDungeonDex(Disable UnknownContent)",
+        "AssemblyVersion":  "2.9.3.0",
+        "Description":  "A live bestiary for Deep Dungeon.\nShows target mob aggro type, a subjective threat level, status vulnerabilities, and a general overview of notable mechanics.\nThreat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with deep dungeon mechanics and the class being played.\nInformation is accurate to the best of my knowledge based on crowdsourced information, but I could use your help! Please open an issue on the GitHub if you\u0027d like to correct inaccurate or untested data.\nOriginal by Strati",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/wolfcomp/DeepDungeonDex",
+        "Tags":  [
+                     "deep dungeon",
+                     "achievements",
+                     "battle"
+                 ],
+        "DalamudApiLevel":  9,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "Live monster data for Deep Dungeons.",
+        "Changelog":  "",
+        "AcceptsFeedback":  false,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  0,
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DeepDungeonDex(Disable UnknownContent)/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DeepDungeonDex(Disable UnknownContent)/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DeepDungeonDex(Disable UnknownContent)/latest.zip"
     },
     {
         "Author":  "Liza Carvelli",
@@ -93,7 +121,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  0,
+        "LastUpdate":  "1704517486",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Deliveroo/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Deliveroo/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Deliveroo/latest.zip"
@@ -123,7 +151,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1700049749",
+        "LastUpdate":  "1704517486",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DiscordIntegration/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DiscordIntegration/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DiscordIntegration/latest.zip"
@@ -150,7 +178,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1696625586",
+        "LastUpdate":  "1704517486",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DoubleWeaver/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DoubleWeaver/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/DoubleWeaver/latest.zip"
@@ -181,7 +209,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1700049126",
+        "LastUpdate":  "1704517486",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FaloopIntegration/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FaloopIntegration/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FaloopIntegration/latest.zip"
@@ -207,7 +235,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1696269663",
+        "LastUpdate":  "1704517486",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FishNotify/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FishNotify/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/FishNotify/latest.zip"
@@ -229,7 +257,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1704513495",
+        "LastUpdate":  "1704517486",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Influx/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Influx/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Influx/latest.zip"
@@ -259,7 +287,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1698140647",
+        "LastUpdate":  "1704517486",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip"
@@ -282,7 +310,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1698141998",
+        "LastUpdate":  "1704517486",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/NamePlateDebuffs2/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/NamePlateDebuffs2/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/NamePlateDebuffs2/latest.zip"
@@ -305,7 +333,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1704513495",
+        "LastUpdate":  "1704517486",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/NewGamePlusAnywhere/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/NewGamePlusAnywhere/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/NewGamePlusAnywhere/latest.zip"
@@ -332,7 +360,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1696446827",
+        "LastUpdate":  "1704517486",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip"
@@ -354,7 +382,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1704513495",
+        "LastUpdate":  "1704517486",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/RetainerShutUp/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/RetainerShutUp/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/RetainerShutUp/latest.zip"
@@ -381,7 +409,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1704513495",
+        "LastUpdate":  "1704517486",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/RetainerTrack/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/RetainerTrack/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/RetainerTrack/latest.zip"
@@ -404,7 +432,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1704163168",
+        "LastUpdate":  "1704517486",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Squadronista/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Squadronista/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Squadronista/latest.zip"
@@ -426,7 +454,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1696614743",
+        "LastUpdate":  "1704517486",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/TheGreatSeparator2/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/TheGreatSeparator2/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/TheGreatSeparator2/latest.zip"
@@ -449,7 +477,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1704513495",
+        "LastUpdate":  "1704517486",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Workshoppa/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Workshoppa/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Workshoppa/latest.zip"
