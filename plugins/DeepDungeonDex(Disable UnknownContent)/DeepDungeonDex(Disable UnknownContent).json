@@ -16,6 +16,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
+  "IconUrl": "https://github.com/ryon5541/Plugins/blob/Icon/DeepDungeonDex.png",
   "Punchline": "Live monster data for Deep Dungeons.",
   "Changelog": "",
   "AcceptsFeedback": false

@@ -1,0 +1,17 @@
+{
+  "Author": "Liza Carvelli",
+  "Name": "Gearsetter",
+  "InternalName": "Gearsetter",
+  "AssemblyVersion": "0.1",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.carvel.li/liza/Gearsetter",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://github.com/ryon5541/Plugins/blob/Icon/Gearsetter.png",
+  "Punchline": "Find gear upgrades",
+  "AcceptsFeedback": true
+}
