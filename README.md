@@ -14,5 +14,5 @@ fork:
 [FaloopIntegration](https://github.com/SlashNephy/Divination)  
 [DiscordIntegration](https://github.com/SlashNephy/Divination)  
 [ARDiscard](https://git.carvel.li/liza/ARDiscard)  
-[Squadronista](https://git.carvel.li/liza/Squadronista)
+[Squadronista](https://git.carvel.li/liza/Squadronista)  
 [DeepDungeonDex](https://github.com/wolfcomp/DeepDungeonDex/tree/master)
