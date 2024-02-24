@@ -70,7 +70,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1708762759",
+        "LastUpdate":  "1708765886",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/ARDiscard/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/ARDiscard/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/ARDiscard/latest.zip"
@@ -108,7 +108,7 @@
         "Author":  "Liza Carvelli",
         "Name":  "Deliveroo(JP Ver)",
         "InternalName":  "Deliveroo",
-        "AssemblyVersion":  "3.2",
+        "AssemblyVersion":  "3.2.6",
         "Description":  "",
         "ApplicableVersion":  "any",
         "RepoUrl":  "https://git.carvel.li/liza/Deliveroo",
