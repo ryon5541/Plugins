@@ -1,6 +1,6 @@
 {
   "Author": "Liza Carvelli",
-  "Name": "Discard Helper",
+  "Name": "Discard Helper(JP Ver)",
   "InternalName": "ARDiscard",
   "AssemblyVersion": "4.6",
   "Description": "",
@@ -11,7 +11,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://plugins.carvel.li/icons/ARDiscard.png",
+  "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/ARDiscard.png",
   "Punchline": "Discard items automatically via a command or as a post-venture task for AutoRetainer",
   "AcceptsFeedback": true
 }
