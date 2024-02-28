@@ -3,8 +3,8 @@
         "Author":  "Asteria Nocturna",
         "Name":  "Divination.AetheryteLinkInChat",
         "InternalName":  "AetheryteLinkInChat",
-        "AssemblyVersion":  "0.1.0.1682",
-        "Description":  "Add a link to teleport to the nearest aetheryte into map link in chat.",
+        "AssemblyVersion":  "6.57.2.1",
+        "Description":  "Display a teleport link to the nearest aetherite for the map link from the in-game chat. Type /alic to configure the plugin.",
         "ApplicableVersion":  "any",
         "Tags":  [
                      "teleporter"
@@ -17,11 +17,8 @@
         "LoadSync":  false,
         "CanUnloadAsync":  false,
         "LoadPriority":  0,
-        "ImageUrls":  [
-
-                      ],
-        "Punchline":  "Quick teleport for Mob Hunting",
-        "AcceptsFeedback":  false,
+        "Punchline":  "Quick teleport for mob hunts and treasure hunts!",
+        "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  "1704517486",
@@ -122,7 +119,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1708779142",
+        "LastUpdate":  "1708782031",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/stg/plugins/Deliveroo/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/stg/plugins/Deliveroo/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/stg/plugins/Deliveroo/latest.zip"
