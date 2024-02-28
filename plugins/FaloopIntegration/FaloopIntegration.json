@@ -2,8 +2,8 @@
   "Author": "Asteria Nocturna",
   "Name": "Divination.FaloopIntegration",
   "InternalName": "FaloopIntegration",
-  "AssemblyVersion": "0.1.0.1682",
-  "Description": "Provide simple integration with Faloop. Mob notification in chat.",
+  "AssemblyVersion": "6.57.2.1",
+  "Description": "Show Faloop mob spawn notifications in in-game chat. Type /faloop to configure the plugin.",
   "ApplicableVersion": "any",
   "Tags": [
     "mobhunt"
@@ -13,11 +13,10 @@
     "utility"
   ],
   "DalamudApiLevel": 9,
-  "LoadRequiredState": 2,
+  "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "ImageUrls": [],
-  "Punchline": "Faloop notification in chat",
+  "Punchline": "Faloop Notification in Chat",
   "AcceptsFeedback": true
 }
