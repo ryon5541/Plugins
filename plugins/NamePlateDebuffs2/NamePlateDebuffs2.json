@@ -11,6 +11,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/NamePlateDebuffs.png",
   "Punchline": "Displays debuffs you cast on nameplates of enemies",
   "Changelog": "- WoW Amazing",
   "AcceptsFeedback": true

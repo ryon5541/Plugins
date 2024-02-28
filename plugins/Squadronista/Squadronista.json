@@ -11,7 +11,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://git.carvel.li/liza/plugin-repo/raw/branch/master/dist/Squadronista.png",
+  "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/Squadronista.png",
   "Punchline": "Simplified Squadron Calculator, heavily inspired by https://ffxivsquadron.com/",
   "AcceptsFeedback": true
 }
