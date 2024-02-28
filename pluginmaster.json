@@ -21,7 +21,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1704517486",
+        "LastUpdate":  "1709082907",
         "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/stg/plugins/AetheryteLinkInChat/latest.zip",
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/stg/plugins/AetheryteLinkInChat/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/stg/plugins/AetheryteLinkInChat/latest.zip"
@@ -128,7 +128,7 @@
         "Author":  "Asteria Nocturna",
         "Name":  "Divination.DiscordIntegration",
         "InternalName":  "DiscordIntegration",
-        "AssemblyVersion":  "0.1.0.1682",
+        "AssemblyVersion":  "6.57.2.1",
         "Description":  "Dalamud Plugin to support Rich Presence for FFXIV.",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -138,13 +138,10 @@
                              "social"
                          ],
         "DalamudApiLevel":  9,
-        "LoadRequiredState":  2,
+        "LoadRequiredState":  0,
         "LoadSync":  false,
         "CanUnloadAsync":  false,
         "LoadPriority":  0,
-        "ImageUrls":  [
-
-                      ],
         "Punchline":  "Fully-customizable Discord Rich Presence",
         "AcceptsFeedback":  true,
         "IsHide":  "False",
