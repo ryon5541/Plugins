@@ -33,6 +33,7 @@ jobs:
 
   create-pr:
     runs-on: ubuntu-latest
+    needs: generate
     steps:
       - name: Create PR
       - uses : actions/checkout@v2
