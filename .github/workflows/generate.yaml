@@ -1,4 +1,4 @@
-name: Generate PluginMaster
+name: STG Generate PluginMaster
 on: 
   push:
   page_build:
@@ -6,7 +6,7 @@ on:
 
 jobs:
   generate:
-    name: Generate PluginMaster
+    name: STG Generate PluginMaster
     runs-on: windows-2019
     steps:
       - name: Extract branch name
@@ -15,7 +15,7 @@ jobs:
         id: extract_branch
       - uses: actions/checkout@v1
       - name: Run generator
-        run: .\Make-PluginMaster.ps1
+        run: .\Make-PluginMaster-stg.ps1
       - name: Commit files
         continue-on-error: true
         run: |
