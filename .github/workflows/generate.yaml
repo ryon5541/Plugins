@@ -37,6 +37,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Create release pr
-      run: gh pr create -B "stg_ts" -t "stg" -b ""
-      env:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh pr create -B "stg_ts" -t "stg" -b ""
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
