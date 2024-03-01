@@ -33,7 +33,7 @@ jobs:
 
   create-pr:
     runs-on: ubuntu-latest
-    step:
+    steps:
       - name: Create PR
       - uses : actions/checkout@v2
       run: gh pr create -B "stg_ts" -t "stg" -b ""
