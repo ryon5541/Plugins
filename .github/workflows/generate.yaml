@@ -39,6 +39,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Create release pr
+<<<<<<< HEAD
         run: gh pr create -B "master" -t "Publication： Plugins" -a ryon5541 -b ""
+=======
+        run: gh pr create -B "master" -t "Publication: Plugins" -a ryon5541 -b ""
+>>>>>>> db78b6f605457f6143fd28604e6901e07e73b9f0
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
