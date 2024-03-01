@@ -3,8 +3,8 @@ on:
   page_build:
   workflow_dispatch:
   push:
-    tags:
-      - "Release"
+    branches:
+      - API9
 
 jobs:
   generate:
