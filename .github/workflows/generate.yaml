@@ -5,6 +5,8 @@ on:
   push:
     branches:
       - API9
+    tags:
+      - "Release"
 
 jobs:
   generate:
