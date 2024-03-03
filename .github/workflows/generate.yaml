@@ -9,6 +9,7 @@ on:
 jobs:
   generate:
     name: Generate PluginMaster
+    if: contains(github.event.head_commit.message, '[Release]')
     runs-on: windows-2019
     steps:
       - name: Extract branch name
@@ -38,6 +39,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Create release pr
-        run: gh pr create -B "master" -t "For publication" -a ryon5541 -b ""
+        run: gh pr create -B "master" -t "Publication： Plugins" -a ryon5541 -b ""
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

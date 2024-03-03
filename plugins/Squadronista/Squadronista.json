@@ -2,7 +2,7 @@
   "Author": "Liza Carvelli",
   "Name": "Squadronista (JP Ver)",
   "InternalName": "Squadronista",
-  "AssemblyVersion": "1.1",
+  "AssemblyVersion": "2.0.2",
   "Description": "",
   "ApplicableVersion": "any",
   "RepoUrl": "https://git.carvel.li/liza/Squadronista",
@@ -13,5 +13,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/Squadronista.png",
   "Punchline": "Simplified Squadron Calculator, heavily inspired by https://ffxivsquadron.com/",
+  "Changelog": "- Use GcArmyManager instead of addon/atk parsing",
   "AcceptsFeedback": true
 }
