@@ -2,7 +2,7 @@
   "Author": "Liza Carvelli",
   "Name": "Influx",
   "InternalName": "Influx",
-  "AssemblyVersion": "0.7",
+  "AssemblyVersion": "0.9",
   "Description": "Sync game stats to InfluxDB",
   "ApplicableVersion": "any",
   "RepoUrl": "https://git.carvel.li/liza/Influx",
@@ -13,6 +13,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/Influx.png",
   "Punchline": "Sync game stats to InfluxDB",
-  "Changelog": "- Adjustments around FC exclusions",
+  "Changelog": "Track AllaganTools filters",
   "AcceptsFeedback": true
 }
