@@ -2,7 +2,7 @@
   "Author": "Liza Carvelli",
   "Name": "Influx",
   "InternalName": "Influx",
-  "AssemblyVersion": "0.10",
+  "AssemblyVersion": "0.11",
   "Description": "Sync game stats to InfluxDB",
   "ApplicableVersion": "any",
   "RepoUrl": "https://git.carvel.li/liza/Influx",
@@ -13,6 +13,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/Influx.png",
   "Punchline": "Sync game stats to InfluxDB",
-  "Changelog": "- Fallback for when FC window/points update times out\n\r- Clean up some influx client logic\n\r- Replace timer used to push statistics to be more reliable",
+  "Changelog": "- Push statistics to influx when logging out",
   "AcceptsFeedback": true
 }
