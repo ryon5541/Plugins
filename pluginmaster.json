@@ -1,32 +1,5 @@
 [
   {
-    "Author": "Asteria Nocturna",
-    "Name": "Divination.AetheryteLinkInChat",
-    "InternalName": "AetheryteLinkInChat",
-    "AssemblyVersion": "6.57.2.1",
-    "Description": "Display a teleport link to the nearest aetherite for the map link from the in-game chat. Type /alic to configure the plugin.",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "teleporter"
-    ],
-    "CategoryTags": [
-      "utility"
-    ],
-    "DalamudApiLevel": 9,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "Quick teleport for mob hunts and treasure hunts!",
-    "AcceptsFeedback": true,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LastUpdate": "1709083836",
-    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/AetheryteLinkInChat/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/AetheryteLinkInChat/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/AetheryteLinkInChat/latest.zip"
-  },
-  {
     "Author": "Liza Carvelli",
     "Name": "ARC",
     "InternalName": "ARControl",
@@ -45,9 +18,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdate": "1708765191",
-    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/ARControl/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/ARControl/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/ARControl/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/ARControl/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/ARControl/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/ARControl/latest.zip"
   },
   {
     "Author": "Liza Carvelli",
@@ -68,9 +41,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdate": "1709289443",
-    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/ARDiscard/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/ARDiscard/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/ARDiscard/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/ARDiscard/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/ARDiscard/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/ARDiscard/latest.zip"
   },
   {
     "Author": "WildWolf, ryon5541",
@@ -97,9 +70,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdate": "1705607063",
-    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/DeepDungeonDex(Disable UnknownContent)/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/DeepDungeonDex(Disable UnknownContent)/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/DeepDungeonDex(Disable UnknownContent)/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/DeepDungeonDex(Disable UnknownContent)/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/DeepDungeonDex(Disable UnknownContent)/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/DeepDungeonDex(Disable UnknownContent)/latest.zip"
   },
   {
     "Author": "Liza Carvelli",
@@ -120,36 +93,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdate": "1709289443",
-    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/Deliveroo/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/Deliveroo/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/Deliveroo/latest.zip"
-  },
-  {
-    "Author": "Asteria Nocturna",
-    "Name": "Divination.DiscordIntegration",
-    "InternalName": "DiscordIntegration",
-    "AssemblyVersion": "6.57.2.1",
-    "Description": "Dalamud Plugin to support Rich Presence for FFXIV.",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "Discord"
-    ],
-    "CategoryTags": [
-      "social"
-    ],
-    "DalamudApiLevel": 9,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "Fully-customizable Discord Rich Presence",
-    "AcceptsFeedback": true,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LastUpdate": "1709083836",
-    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/DiscordIntegration/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/DiscordIntegration/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/DiscordIntegration/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Deliveroo/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Deliveroo/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Deliveroo/latest.zip"
   },
   {
     "Author": "Bluefissure",
@@ -168,43 +114,16 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "IconUrl": "https://github.com/Bluefissure/DoubleWeaver/blob/master/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/DoubleWeaver.png",
     "Punchline": "Double weaving with high ping",
+    "Changelog": "- .NET8 Support",
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1704517486",
-    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/DoubleWeaver/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/DoubleWeaver/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/DoubleWeaver/latest.zip"
-  },
-  {
-    "Author": "Asteria Nocturna",
-    "Name": "Divination.FaloopIntegration",
-    "InternalName": "FaloopIntegration",
-    "AssemblyVersion": "6.57.2.1",
-    "Description": "Show Faloop mob spawn notifications in in-game chat. Type /faloop to configure the plugin.",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "mobhunt"
-    ],
-    "CategoryTags": [
-      "social",
-      "utility"
-    ],
-    "DalamudApiLevel": 9,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "Faloop Notification in Chat",
-    "AcceptsFeedback": true,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LastUpdate": "1709083836",
-    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/FaloopIntegration/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/FaloopIntegration/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/FaloopIntegration/latest.zip"
+    "LastUpdate": "1710807166",
+    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/DoubleWeaver/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/DoubleWeaver/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/DoubleWeaver/latest.zip"
   },
   {
     "Author": "Liza Carvelli,ryon5541",
@@ -228,9 +147,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdate": "1704517486",
-    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/FishNotify/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/FishNotify/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/FishNotify/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/FishNotify/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/FishNotify/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/FishNotify/latest.zip"
   },
   {
     "Author": "Liza Carvelli",
@@ -251,9 +170,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdate": "1705606152",
-    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/Gearsetter/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/Gearsetter/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/Gearsetter/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Gearsetter/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Gearsetter/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Gearsetter/latest.zip"
   },
   {
     "Author": "Liza Carvelli",
@@ -275,9 +194,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdate": "1710163810",
-    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/Influx/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/Influx/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/Influx/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Influx/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Influx/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Influx/latest.zip"
   },
   {
     "Author": "MidoriKami, ryon5541",
@@ -299,39 +218,16 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/resonant.png",
     "Punchline": "Make hotbar skills that you cant use transparent when sync'd",
-    "Changelog": "- API9 Support",
+    "Changelog": "- .net8 Support",
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1709129428",
-    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip"
-  },
-  {
-    "Author": "aers, JHerig, squidmade, ryon5541",
-    "Name": "Nameplate Debuffs2",
-    "InternalName": "NamePlateDebuffs2",
-    "AssemblyVersion": "1.0.2.1",
-    "Description": "Displays your debuffs on enemy nameplates.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/jherig/NamePlateDebuffs",
-    "DalamudApiLevel": 9,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/NamePlateDebuffs.png",
-    "Punchline": "Displays debuffs you cast on nameplates of enemies",
-    "Changelog": "- WoW Amazing",
-    "AcceptsFeedback": true,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LastUpdate": "1709129012",
-    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/NamePlateDebuffs2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/NamePlateDebuffs2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/NamePlateDebuffs2/latest.zip"
+    "LastUpdate": "1710807166",
+    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/KitchenSync2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/KitchenSync2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/KitchenSync2/latest.zip"
   },
   {
     "Author": "Liza Carvelli",
@@ -352,15 +248,15 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdate": "1704517486",
-    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/NewGamePlusAnywhere/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/NewGamePlusAnywhere/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/NewGamePlusAnywhere/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/NewGamePlusAnywhere/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/NewGamePlusAnywhere/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/NewGamePlusAnywhere/latest.zip"
   },
   {
     "Author": "Aulus mal Asina,ryon5541",
     "Name": "Resonant",
     "InternalName": "Resonant",
-    "AssemblyVersion": "0.0.0.7",
+    "AssemblyVersion": "0.0.0.8",
     "Description": "Displays accurate player hitbox and positional outlines.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/aulus-asina/resonant",
@@ -372,16 +268,16 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/aulus-asina/resonant/main/repo/resonant.png",
+    "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/resonant.png",
     "Punchline": "A power worthy of Lord Zenos",
-    "Changelog": "- API9 Support",
+    "Changelog": "- .NET8 Support",
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1704517486",
-    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/Resonant/latest.zip"
+    "LastUpdate": "1710807166",
+    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Resonant/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Resonant/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Resonant/latest.zip"
   },
   {
     "Author": "Liza Carvelli",
@@ -401,9 +297,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdate": "1704517486",
-    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/RetainerShutUp/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/RetainerShutUp/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/RetainerShutUp/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/RetainerShutUp/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/RetainerShutUp/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/RetainerShutUp/latest.zip"
   },
   {
     "Author": "Liza Carvelli",
@@ -428,9 +324,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdate": "1704517486",
-    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/RetainerTrack/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/RetainerTrack/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/RetainerTrack/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/RetainerTrack/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/RetainerTrack/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/RetainerTrack/latest.zip"
   },
   {
     "Author": "Liza Carvelli",
@@ -452,31 +348,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdate": "1709450164",
-    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/Squadronista/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/Squadronista/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/Squadronista/latest.zip"
-  },
-  {
-    "Author": "ascclemens",
-    "Name": "The Great Separator2",
-    "InternalName": "TheGreatSeparator2",
-    "AssemblyVersion": "1.3.0.0",
-    "Description": "Add separators to various numbers.\n\n- Damage/healing numbers (not DoTs or other players' numbers)\n- Party list HP\n- Ability costs on hotbars\n- Ability costs in tooltips",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://git.annaclemens.io/ascclemens/TheGreatSeparator",
-    "DalamudApiLevel": 9,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "Add separators to various numbers.",
-    "AcceptsFeedback": true,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LastUpdate": "1704517486",
-    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/TheGreatSeparator2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/TheGreatSeparator2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/TheGreatSeparator2/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Squadronista/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Squadronista/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Squadronista/latest.zip"
   },
   {
     "Author": "Liza Carvelli",
@@ -497,8 +371,8 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdate": "1708765117",
-    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/Workshoppa/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/Workshoppa/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/Workshoppa/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Workshoppa/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Workshoppa/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Workshoppa/latest.zip"
   }
 ]
