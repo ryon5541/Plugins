@@ -8,7 +8,6 @@ fork:
 [Fish Notify](https://github.com/carvelli)  
 [DoubleWeaver](https://github.com/Bluefissure/DoubleWeaver)  
 [Kitchen Sync](https://github.com/MidoriKami/)  
-[Nameplate Debuffs](https://github.com/jherig/NamePlateDebuffs)  
 [ARDiscard](https://git.carvel.li/liza/ARDiscard)  
 [Squadronista](https://git.carvel.li/liza/Squadronista)  
 [DeepDungeonDex](https://github.com/wolfcomp/DeepDungeonDex/tree/master)  
