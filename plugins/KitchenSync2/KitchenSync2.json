@@ -18,7 +18,8 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/resonant.png",
   "Punchline": "Make hotbar skills that you cant use transparent when sync'd",
-  "Changelog": "- API9 Support",
+  "Changelog": "- .net8 Support",
   "AcceptsFeedback": true
 }

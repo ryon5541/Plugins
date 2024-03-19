@@ -15,7 +15,8 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://github.com/Bluefissure/DoubleWeaver/blob/master/images/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/DoubleWeaver.png",
   "Punchline": "Double weaving with high ping",
+  "Changelog": "- .NET8 Support",
   "AcceptsFeedback": true
 }
