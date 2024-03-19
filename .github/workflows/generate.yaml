@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - stg
+      - master
 
 jobs:
   generate-stg:
