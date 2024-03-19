@@ -32,7 +32,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: stg
 
-  create-pr:
+    create-pr:
     name: Create PR
     runs-on: ubuntu-latest
     if: contains(github.event.head_commit.message, '[Release]')
@@ -44,7 +44,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  generate:
+    generate:
     name: Generate PluginMaster
     if: startsWith(github.event.head_commit.message, 'Merge pull request')
     runs-on: windows-2019
