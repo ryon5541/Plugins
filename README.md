@@ -1,5 +1,5 @@
 # plugins
-Supports API9 instead of API8 and Japanese environment
+Supports API9, .net8 instead of API8, .net7 and Japanese environment
 ```
 https://raw.githubusercontent.com/ryon5541/Plugins/master/pluginmaster.json
 ```
