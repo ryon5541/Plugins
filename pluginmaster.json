@@ -25,7 +25,7 @@
   },
   {
     "Author": "Liza Carvelli",
-    "Name": "Discard Helper",
+    "Name": "Discard Helper(JP Ver)",
     "InternalName": "ARDiscard",
     "AssemblyVersion": "5.1",
     "Description": "",
@@ -42,7 +42,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1711996037",
+    "LastUpdate": "1711996468",
     "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/ARDiscard/latest.zip",
     "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/ARDiscard/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/ARDiscard/latest.zip"
@@ -78,7 +78,7 @@
   },
   {
     "Author": "Liza Carvelli",
-    "Name": "Deliveroo",
+    "Name": "Deliveroo(JP Ver)",
     "InternalName": "Deliveroo",
     "AssemblyVersion": "4.2.1",
     "Description": "",
@@ -95,7 +95,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1711996037",
+    "LastUpdate": "1711996468",
     "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Deliveroo/latest.zip",
     "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Deliveroo/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Deliveroo/latest.zip"
@@ -336,7 +336,7 @@
   },
   {
     "Author": "Liza Carvelli",
-    "Name": "Squadronista",
+    "Name": "Squadronista(JP Ver)",
     "InternalName": "Squadronista",
     "AssemblyVersion": "3.0",
     "Description": "",
@@ -353,7 +353,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1711996037",
+    "LastUpdate": "1711996576",
     "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Squadronista/latest.zip",
     "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Squadronista/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Squadronista/latest.zip"
