@@ -12,5 +12,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "",
+  "Changelog": "- NET 8",
   "AcceptsFeedback": true
 }
