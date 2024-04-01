@@ -2,7 +2,7 @@
   "Author": "Liza Carvelli",
   "Name": "ARC",
   "InternalName": "ARControl",
-  "AssemblyVersion": "3.3",
+  "AssemblyVersion": "4.0",
   "Description": "",
   "ApplicableVersion": "any",
   "RepoUrl": "https://git.carvel.li/liza/ARControl",
@@ -13,5 +13,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/ARControl.png",
   "Punchline": "Better AutoRetainer Venture Planner",
+  "Changelog": "- NET 8 \n- Update dependencies \n- Fix scaling/spacing issues if you're using custom font sizes/custom styles",
   "AcceptsFeedback": true
 }
