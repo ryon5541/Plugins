@@ -1,0 +1,18 @@
+{
+  "Author": "Liza Carvelli",
+  "Name": "Deliveroo",
+  "InternalName": "Deliveroo",
+  "AssemblyVersion": "4.2.1",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.carvel.li/liza/Deliveroo",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/Deliveroo.png",
+  "Punchline": "Better Grand Company Deliveries",
+  "Changelog": "- Fix \"not on Homeworld\" warning",
+  "AcceptsFeedback": true
+}
