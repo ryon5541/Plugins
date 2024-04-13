@@ -1,0 +1,12 @@
+{
+  "Author": "Taurenkey (Puni.sh), ryon5541",
+  "Name": "Party List Layout",
+  "InternalName": "PartyListLayoutRevived",
+  "AssemblyVersion": "1.0.1.2",
+  "Description": "PLACEHOLDER",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 9,
+  "LoadPriority": 0,
+  "IconUrl": "https://love.puni.sh/resources/icon.png",
+  "Punchline": "PLACEHOLDER"
+}
