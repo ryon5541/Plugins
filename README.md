@@ -12,3 +12,4 @@ fork:
 [Squadronista](https://git.carvel.li/liza/Squadronista)  
 [DeepDungeonDex](https://github.com/wolfcomp/DeepDungeonDex/tree/master)  
 [Deliveroo](https://git.carvel.li/liza/Deliveroo)  
+[PartyListLayout](https://github.com/Taurenkey/PartyListLayout)

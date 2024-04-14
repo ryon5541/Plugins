@@ -258,6 +258,24 @@
     "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/NewGamePlusAnywhere/latest.zip"
   },
   {
+    "Author": "Taurenkey (Puni.sh), ryon5541",
+    "Name": "Party List Layout",
+    "InternalName": "PartyListLayoutRevived",
+    "AssemblyVersion": "1.0.1.2",
+    "Description": "PLACEHOLDER",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+    "LoadPriority": 0,
+    "IconUrl": "https://love.puni.sh/resources/icon.png",
+    "Punchline": "PLACEHOLDER",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdate": "1713031268",
+    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/PartyListLayoutRevived/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/PartyListLayoutRevived/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/PartyListLayoutRevived/latest.zip"
+  },
+  {
     "Author": "Aulus mal Asina,ryon5541",
     "Name": "Resonant",
     "InternalName": "Resonant",
