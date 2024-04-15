@@ -39,7 +39,6 @@ jobs:
     name: Create PR
     if: contains(github.event.head_commit.message, '[Release]')
     runs-on: ubuntu-latest
-    needs: generate-stg
     steps:
       - uses: actions/checkout@v2
       - name: Create release pr

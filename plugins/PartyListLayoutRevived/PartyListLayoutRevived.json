@@ -2,11 +2,15 @@
   "Author": "Taurenkey (Puni.sh), ryon5541",
   "Name": "Party List Layout",
   "InternalName": "PartyListLayoutRevived",
-  "AssemblyVersion": "1.0.1.2",
+  "AssemblyVersion": "1.0.2.3",
   "Description": "PLACEHOLDER",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "IconUrl": "https://love.puni.sh/resources/icon.png",
-  "Punchline": "PLACEHOLDER"
+  "Punchline": "PLACEHOLDER",
+  "AcceptsFeedback": true
 }
