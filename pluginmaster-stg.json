@@ -25,9 +25,9 @@
   },
   {
     "Author": "Liza Carvelli",
-    "Name": "Discard Helper",
+    "Name": "Discard Helper(JP Ver)",
     "InternalName": "ARDiscard",
-    "AssemblyVersion": "5.2.2",
+    "AssemblyVersion": "5.2.3",
     "Description": "",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.carvel.li/liza/ARDiscard",
@@ -41,7 +41,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1713535994",
+    "LastUpdate": "1713536473",
     "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/ARDiscard/latest.zip",
     "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/ARDiscard/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/ARDiscard/latest.zip"
@@ -77,9 +77,9 @@
   },
   {
     "Author": "Liza Carvelli",
-    "Name": "Deliveroo",
+    "Name": "Deliveroo(JP Ver)",
     "InternalName": "Deliveroo",
-    "AssemblyVersion": "4.3.1",
+    "AssemblyVersion": "4.3.2",
     "Description": "",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.carvel.li/liza/Deliveroo",
@@ -94,7 +94,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1713535994",
+    "LastUpdate": "1713536473",
     "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Deliveroo/latest.zip",
     "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Deliveroo/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Deliveroo/latest.zip"
