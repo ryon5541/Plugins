@@ -1,8 +1,8 @@
 {
   "Author": "Liza Carvelli",
-  "Name": "Discard Helper(JP Ver)",
+  "Name": "Discard Helper",
   "InternalName": "ARDiscard",
-  "AssemblyVersion": "5.1",
+  "AssemblyVersion": "5.2.2",
   "Description": "",
   "ApplicableVersion": "any",
   "RepoUrl": "https://git.carvel.li/liza/ARDiscard",
@@ -13,6 +13,5 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/ARDiscard.png",
   "Punchline": "Discard items automatically via a command or as a post-venture task for AutoRetainer",
-  "Changelog": "- Add submersible parts to internal blacklist\n\r- Add config for additional blacklisted items",
   "AcceptsFeedback": true
 }
