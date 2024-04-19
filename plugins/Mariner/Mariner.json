@@ -1,0 +1,17 @@
+{
+  "Author": "Liza Carvelli",
+  "Name": "Mariner",
+  "InternalName": "Mariner",
+  "AssemblyVersion": "0.1.0.0",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.carvel.li/liza/Mariner",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/Mariner.png",
+  "Punchline": "Somewhat basic sub levelling",
+  "AcceptsFeedback": true
+}
