@@ -1,8 +1,8 @@
 {
   "Author": "Liza Carvelli",
-  "Name": "Discard Helper",
+  "Name": "Discard Helper(JP Ver)",
   "InternalName": "ARDiscard",
-  "AssemblyVersion": "5.2.2",
+  "AssemblyVersion": "5.2.3",
   "Description": "",
   "ApplicableVersion": "any",
   "RepoUrl": "https://git.carvel.li/liza/ARDiscard",
