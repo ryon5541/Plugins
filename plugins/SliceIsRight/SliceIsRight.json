@@ -1,0 +1,21 @@
+{
+  "Author": "Liza Carvelli",
+  "Name": "Slice is Right",
+  "InternalName": "SliceIsRight",
+  "AssemblyVersion": "7.0",
+  "Description": "Shows where Bamboo falls.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.carvel.li/liza/SliceIsRight",
+  "Tags": [
+    "gold saucer",
+    "yojimbo"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/SliceIsRight.png",
+  "Punchline": "Shows where Bamboo falls.",
+  "AcceptsFeedback": true
+}
