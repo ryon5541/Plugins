@@ -1,0 +1,20 @@
+{
+  "Author": "Liza Carvelli",
+  "Name": "KitchenSink",
+  "InternalName": "KitchenSink",
+  "AssemblyVersion": "0.2",
+  "Description": "A plugin for things that aren't worth their own plugins; see commands for details.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.carvel.li/liza/KitchenSink",
+  "Tags": [
+    "character switch"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/KitchenSink.png",
+  "Punchline": "A plugin for things that aren't worth their own plugins.",
+  "AcceptsFeedback": true
+}
