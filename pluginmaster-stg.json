@@ -24,7 +24,7 @@
   },
   {
     "Author": "Liza Carvelli",
-    "Name": "Discard Helper",
+    "Name": "Discard Helper(JP Ver)",
     "InternalName": "ARDiscard",
     "AssemblyVersion": "5.3.1",
     "Description": "",
@@ -40,7 +40,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1714650090",
+    "LastUpdate": "1714650732",
     "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/ARDiscard/latest.zip",
     "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/ARDiscard/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/ARDiscard/latest.zip"
