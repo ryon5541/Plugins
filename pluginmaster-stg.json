@@ -202,6 +202,32 @@
     "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Influx/latest.zip"
   },
   {
+    "Author": "Liza Carvelli",
+    "Name": "KitchenSink",
+    "InternalName": "KitchenSink",
+    "AssemblyVersion": "0.2",
+    "Description": "A plugin for things that aren't worth their own plugins; see commands for details.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://git.carvel.li/liza/KitchenSink",
+    "Tags": [
+      "character switch"
+    ],
+    "DalamudApiLevel": 9,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/KitchenSink.png",
+    "Punchline": "A plugin for things that aren't worth their own plugins.",
+    "AcceptsFeedback": true,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdate": "1714649828",
+    "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/KitchenSink/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/KitchenSink/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/KitchenSink/latest.zip"
+  },
+  {
     "Author": "MidoriKami, ryon5541",
     "Name": "Kitchen Sync2",
     "InternalName": "KitchenSync2",
