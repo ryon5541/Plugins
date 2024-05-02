@@ -1,8 +1,8 @@
 {
   "Author": "Liza Carvelli",
-  "Name": "Deliveroo(JP Ver)",
+  "Name": "Deliveroo",
   "InternalName": "Deliveroo",
-  "AssemblyVersion": "4.3.2",
+  "AssemblyVersion": "4.5",
   "Description": "",
   "ApplicableVersion": "any",
   "RepoUrl": "https://git.carvel.li/liza/Deliveroo",
@@ -13,6 +13,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/Deliveroo.png",
   "Punchline": "Better Grand Company Deliveries",
-  "Changelog": "- Add delay to TargetPersonnelOfficer to work around a potential timing issue",
+  "Changelog": "",
   "AcceptsFeedback": true
 }
