@@ -78,7 +78,7 @@
     "Author": "Liza Carvelli",
     "Name": "Deliveroo",
     "InternalName": "Deliveroo",
-    "AssemblyVersion": "4.5",
+    "AssemblyVersion": "4.6",
     "Description": "",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.carvel.li/liza/Deliveroo",
@@ -93,7 +93,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1714650090",
+    "LastUpdate": "1714704089",
     "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Deliveroo/latest.zip",
     "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Deliveroo/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/stg/plugins/Deliveroo/latest.zip"
