@@ -2,7 +2,7 @@
   "Author": "Liza Carvelli",
   "Name": "Deliveroo",
   "InternalName": "Deliveroo",
-  "AssemblyVersion": "4.6",
+  "AssemblyVersion": "4.9",
   "Description": "",
   "ApplicableVersion": "any",
   "RepoUrl": "https://git.carvel.li/liza/Deliveroo",
@@ -13,6 +13,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/Deliveroo.png",
   "Punchline": "Better Grand Company Deliveries",
-  "Changelog": "",
+  "Changelog": "Allow starting Deliveroo from SelectString window",
   "AcceptsFeedback": true
 }

@@ -2,7 +2,7 @@
   "Author": "Liza Carvelli",
   "Name": "KitchenSink",
   "InternalName": "KitchenSink",
-  "AssemblyVersion": "0.2",
+  "AssemblyVersion": "0.4",
   "Description": "A plugin for things that aren't worth their own plugins; see commands for details.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://git.carvel.li/liza/KitchenSink",

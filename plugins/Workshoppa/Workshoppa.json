@@ -2,7 +2,7 @@
   "Author": "Liza Carvelli",
   "Name": "Workshoppa",
   "InternalName": "Workshoppa",
-  "AssemblyVersion": "5.3",
+  "AssemblyVersion": "5.5",
   "Description": "",
   "ApplicableVersion": "any",
   "RepoUrl": "https://git.carvel.li/liza/Workshoppa",
@@ -13,6 +13,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/Workshoppa.png",
   "Punchline": "Better Company Workshop Turn-In",
-  "Changelog": "- Currently crafted item can now be cancelled even when not near a fabrication station",
+  "Changelog": "- Fix commands not starting purchase process",
   "AcceptsFeedback": true
 }
