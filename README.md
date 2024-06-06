@@ -11,4 +11,5 @@ fork:
 [ARDiscard](https://git.carvel.li/liza/ARDiscard)  
 [Squadronista](https://git.carvel.li/liza/Squadronista)  
 [DeepDungeonDex](https://github.com/wolfcomp/DeepDungeonDex/tree/master)  
-[PartyListLayout](https://github.com/Taurenkey/PartyListLayout)
+[PartyListLayout](https://github.com/Taurenkey/PartyListLayout)  
+[HPDiff](https://github.com/PunishedPineapple/)
