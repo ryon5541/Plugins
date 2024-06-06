@@ -1,0 +1,21 @@
+{
+  "Author": "Liza Carvelli",
+  "Name": "Questionable",
+  "InternalName": "Questionable",
+  "AssemblyVersion": "0.3",
+  "Description": "A tiny quest helper plugin.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.carvel.li/liza/Questionable",
+  "Tags": [
+    "quests",
+    "msq"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/Icon/Questionable.png",
+  "Punchline": "A tiny quest helper plugin.",
+  "AcceptsFeedback": true
+}
